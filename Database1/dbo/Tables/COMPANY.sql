@@ -1,0 +1,12 @@
+﻿CREATE TABLE [dbo].[COMPANY] (
+    [CPY_ID]         INT           IDENTITY (1, 1) NOT NULL,
+    [CPY_NAME]       VARCHAR (100) NOT NULL,
+    [CPY_DOCUMENT]   VARCHAR (14)  NOT NULL,
+    [CPY_END]        VARCHAR (100) NOT NULL,
+    [CPY_EMAIL]      VARCHAR (100) NOT NULL,
+    [CPY_TEL]        VARCHAR (20)  NOT NULL,
+    [CPY_DATECREATE] DATE          NULL,
+    [USS_ID]         INT           NULL,
+    PRIMARY KEY CLUSTERED ([CPY_ID] ASC)
+);
+

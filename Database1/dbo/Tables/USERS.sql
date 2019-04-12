@@ -1,0 +1,11 @@
+﻿CREATE TABLE [dbo].[USERS] (
+    [USS_ID]         INT          IDENTITY (1, 1) NOT NULL,
+    [USS_NAME]       VARCHAR (80) NOT NULL,
+    [USS_EMAIL]      VARCHAR (80) NOT NULL,
+    [USS_PASSWORD]   VARCHAR (16) NOT NULL,
+    [USS_STATUS]     CHAR (1)     NOT NULL,
+    [USS_DATECREATE] DATETIME     NOT NULL,
+    [UST_IDTYPE]     INT          NULL,
+    PRIMARY KEY CLUSTERED ([USS_ID] ASC)
+);
+
