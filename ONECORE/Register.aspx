@@ -6,7 +6,7 @@
 <head runat="server">
     <title>ONECORE</title>
     <link href="Content/StarAdmin-Free-Bootstrap-Admin-Template-master/css/style.css" rel="stylesheet" />
-    <script src="Scripts/jquery-3.3.1.js"></script>
+    <script src="wwwroot/js/jquery-3.3.1.js"></script>
     <link href="Content/StarAdmin-Free-Bootstrap-Admin-Template-master/vendors/iconfonts/mdi/css/materialdesignicons.css" rel="stylesheet" />
     <link href="Content/StarAdmin-Free-Bootstrap-Admin-Template-master/vendors/iconfonts/mdi/css/materialdesignicons.css" rel="stylesheet" />
     <link rel="stylesheet" href="Content/StarAdmin-Free-Bootstrap-Admin-Template-master/vendors/css/vendor.bundle.base.css" />
