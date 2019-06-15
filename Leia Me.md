@@ -2,7 +2,7 @@
 
 Possui uma Classe de conexão, Caminho: Connection >> Transaction. 
 
-Updatei o os scripts para criação de banco de dados. Está na página principal escrito Scripts[1]"
+Updatei o os scripts para criação de banco de dados. Está na página principal escrito "scripts_db[1].txt"
 
 
 
